@@ -1,0 +1,39 @@
+﻿@using WebApp.Helpers;
+<script src="~/Scripts/Views/vCliente.js"></script>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.CtrlTable(viewName: "vCliente", id: "tbl_Cliente", title: "Lista Clientes",
+    columnsTitle: "cedula,nombre,apellido,fecha de nacimiento,edad,estado civil,genero", ColumnsDataName: "cedula,nombre,apellido,fechaNacimiento,edad,estadoCivil,genero", onSelectFunction: "BindFields", colorHeader: "red")
+
+
+<div class="card border-secondary" style="margin-top: 50px;">
+    <div class="card-header">
+        <div class="row pull-right">
+            <div class="col-md-8">Cliente</div>
+            <div class="col-md-4">
+                @Html.CtrlButton(viewName: "vCliente", id: "btnCreate", label: "Crear Cliente", onClickFunction: "Create", buttonType: "success")
+                @Html.CtrlButton(viewName: "vCliente", id: "btnUpdate", label: "Guardar Cambios", onClickFunction: "Update", buttonType: "info")
+                @Html.CtrlButton(viewName: "vCliente", id: "btnDelete", label: "Eliminar", onClickFunction: "Delete", buttonType: "danger")
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="bs-component">
+                    <form id="frmEdition">
+                        @Html.CtrlInput(id: "txtId", type: "text", label: "Cedula", columnDataName: "cedula")
+                        @Html.CtrlInput(id: "txtName", type: "text", label: "Nombre", columnDataName: "nombre")
+                        @Html.CtrlInput(id: "txtLastName", type: "text", label: "Apellido", columnDataName: "apellido")
+                        @Html.CtrlInput(id: "txtDate", type: "text", label: "Fecha de Nacimiento", columnDataName: "fechaNacimiento")
+                        @Html.CtrlInput(id: "txtage", type: "number", label: "edad", columnDataName: "edad")
+                        @Html.CtrlInput(id: "txtstatus", type: "text", label: "estado civil", columnDataName: "estadoCivil")
+                        @Html.CtrlInput(id: "txtgender", type: "text", label: "genero", columnDataName: "genero")
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

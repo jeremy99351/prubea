@@ -1,0 +1,16 @@
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\Exceptions\obj\Debug\Exceptions.pdb

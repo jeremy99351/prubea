@@ -1,0 +1,38 @@
+﻿
+@using WebApp.Helpers;
+<script src="~/Scripts/Views/vCuenta.js"></script>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.CtrlTable(viewName: "vCuenta", id: "tbl_Cuenta", title: "Lista Cuentas",
+    columnsTitle:"id_cuenta,nombre,moneda,saldo", ColumnsDataName:"id_cuenta,nombre,moneda,saldo", onSelectFunction: "BindFields", colorHeader: "red")
+
+
+<div class="card border-secondary" style="margin-top: 50px;">
+    <div class="card-header">
+        <div class="row pull-right">
+            <div class="col-md-8">Cuenta</div>
+                <div class="col-md-4">
+                    @Html.CtrlButton(viewName: "vCuenta", id: "btnCreate", label: "Crear Cuenta", onClickFunction: "Create", buttonType: "success")
+                    @Html.CtrlButton(viewName: "vCuenta", id: "btnUpdate", label: "Guardar Cambios", onClickFunction: "Update", buttonType: "info")
+                    @Html.CtrlButton(viewName: "vCuenta", id: "btnDelete", label: "Eliminar", onClickFunction: "Delete", buttonType: "danger")
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="bs-component">
+                        <form id="frmEdition">
+                            @Html.CtrlInput(id: "txtIdCuenta", type: "text", label: "Id Cuenta", columnDataName: "id_cuenta")
+                            @Html.CtrlInput(id: "txtName", type: "text", label: "Cedula", columnDataName: "nombre")
+                            @Html.CtrlInput(id: "txtMoneda", type: "text", label: "Moneda", columnDataName: "moneda")
+                            @Html.CtrlInput(id: "txtSaldo", type: "number", label: "Saldo", columnDataName: "saldo")
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+

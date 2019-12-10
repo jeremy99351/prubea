@@ -1,0 +1,37 @@
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.Resources.resources
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbproj.GenerateResource.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbproj.CoreCompileInputs.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\CenfoBancoLab.exe.config
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\CenfoBancoLab.exe
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\CenfoBancoLab.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\CenfoBancoLab.xml
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.exe
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.xml
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\obj\Debug\CenfoBancoLab.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\MetroFramework.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\CenfoBancoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\CenfoBancoLab.exe.config
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\CenfoBancoLab.exe
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\CenfoBancoLab.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\CenfoBancoLab.xml
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\MetroFramework.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.Resources.resources
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbproj.GenerateResource.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.vbproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.exe
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.xml
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\CenfoBancoLab\obj\Debug\CenfoBancoLab.pdb

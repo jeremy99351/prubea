@@ -1,0 +1,34 @@
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\obj\Debug\DataAcces.csprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\obj\Debug\DataAcces.csproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\MetroFramework.Design.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\MetroFramework.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\DataAcces\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\MetroFramework.Design.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\MetroFramework.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\obj\Debug\DataAcces.csprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\obj\Debug\DataAcces.csproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa API\Components\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\Entities-POJO.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\MetroFramework.Design.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\MetroFramework.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\bin\Debug\Entities-POJO.pdb
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\obj\Debug\DataAcces.csprojAssemblyReference.cache
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\obj\Debug\DataAcces.csproj.CopyComplete
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\shirl\Documents\Proyecto2\CenfoBancoLab\Capa WEB\Components\DataAcces\obj\Debug\DataAcces.pdb
